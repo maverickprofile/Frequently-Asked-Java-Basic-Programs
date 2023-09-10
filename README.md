@@ -1,4 +1,4 @@
-# Frequently-Asked-Java-Programs
+# Frequently-Asked-Java-Basic-Programs
 
 In this repository, we delve into a wide range of frequently asked Java programming challenges. We explore various problem-solving techniques, share different approaches, and provide optimized solutions to help you master Java programming.
 
