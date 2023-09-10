@@ -1,1 +1,22 @@
-ᴘʀᴏɢʀᴀᴍ 1 | ꜱᴡᴀᴘᴘɪɴɢ ɴᴜᴍʙᴇʀꜱ
+PROGRAM 1 | SWAPPING NUMBERS
+
+Problem Statement:
+
+Create a program named "SwapNumbers" that performs the following tasks:
+
+Input: Prompt the user to enter two numbers.
+
+Processing: Swap the values of these two numbers.
+
+Output: Display the swapped values.
+
+Expected Input:
+Enter the first number: 5
+Enter the second number: 8
+
+Expected Output:
+After swapping:
+First number: 8
+Second number: 5
+
+In this problem, the user is expected to input two numbers, and the program should swap their values and display the swapped values as shown in the "Expected Output."
